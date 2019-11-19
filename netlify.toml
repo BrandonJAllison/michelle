@@ -7,7 +7,7 @@ ID = "a21c4cc3-d08d-4fb1-9441-2c8608ff5b47"
 
 [build]
   # This is the directory to change to before starting a build.
-  base    = "michelle/"
+  base    = "michelle"
   # NOTE: This is where we will look for package.json/.nvmrc/etc, not root.
   # This is the directory that you are publishing from (relative to root of your repo)
   publish = "michelle/build/"
