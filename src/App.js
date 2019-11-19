@@ -17,7 +17,7 @@ const App = () => {
   }
 
   return (
-    <div className="App" style={{marginTop: '100px'}}>
+    <div className="App" style={{marginTop: '100px', padding:'20px'}}>
       <h2>Things I Might Just Kind Of Like About You</h2>
       <div>
       <h4>{messages[count]}</h4>
